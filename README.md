@@ -9,7 +9,7 @@
 ### Today's Checklist
 
 1. Fork and Clone
-1. Ensure you have installed all dependencies/packages: `npm i`
+<!-- 1. Ensure you have installed all dependencies/packages: `npm i` -->
 1. Look at the Unit Test, see what is being called, passed as input arguments, and what the expected result are.
 1. Ensure you know how to run the unit test:
     * `npm test main.js`
